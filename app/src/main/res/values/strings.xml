@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="image_description_title">image</string>
+
+    <!-- Home Screen -->
+    <string name="home_screen_title">Pop Movies</string>
+    <string name="popular">Popular</string>
+    <string name="top_rate">Top Rate</string>
+    <string name="favorite">Favorite</string>
+
+    <!-- Movie Detail Screen -->
+    <string name="movie_detail_title">MovieDetail</string>
+    <string name="movie_title">Chappie</string>
+    <string name="movie_duration">120min</string>
+    <string name="rate_ten">/10</string>
+    <string name="mark_as_favorite">mark as\n favorite</string>
+    <string name="trailers">Trailers</string>
+    <string name="favorite_clicked">Favorite clicked!</string>
+    <string name="trailer_click">Position clicked </string>
+
+    <!-- Error loading data message -->
+    <string name="error_load_data_message">Can not load data from the server! Please try again soon!</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="review">Review</string>
+    <string name="movie_review">Show Reviewed</string>
+</resources>
